@@ -18,11 +18,16 @@ Type `python -V` into Command Prompt and hit enter (this asks it what version of
 if it says 'Python some version' youre good to go. If it shows an error you'll need to install python
 
 3. Install Python:
-Type `Python` in command prompt and hit enter. It should open the intaller in the Windows store
+
+Type `Python` in command prompt and hit enter. It should open Python in the Windows store. Just click install!
+
 or
+
 Go to https://www.python.org/ > Downloads > Windows > Python (latest version) and run the installer.
 
 4. Instal praw (Reddits Python API)
+
+Enter the following in the command prompt" `pip install praw` and hit enter
 
 #### Update the script with your information
 
