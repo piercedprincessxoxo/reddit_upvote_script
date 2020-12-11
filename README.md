@@ -56,3 +56,17 @@ This will run the script! It might take a little while. It will print out how ma
 If you want to know what posts specifically update the script. Where it says verbose = False, change this to True, and it will print out extra info when it runs!
 
 Thats it! Feel free to reach out to me with any questions. <3
+
+## Troubleshooting errors
+
+prawcore.exceptions.OAuthException: invalid_grant error processing request
+- check your log in info
+
+received 401 HTTP response
+- Check your client secret & app ID
+
+ModuleNotFoundError: No module named 'praw'
+- Did you remeber to download praw?
+
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+- Did you install python?
