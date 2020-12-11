@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # author piercedprincessxoxo 2020
-# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 #! python3
 import praw
 import prawcore
@@ -29,19 +28,9 @@ groups = {
 "My Friends": [
         "piercedprincessxoxo", "OTHERFRIENDSUSERNAME"
     ],
-"GROUP 🌸 CU 3 Hours🌸" : ["_Azaleaa", "567899-x", "ameliadennis", "Aribear15", "ashlorrainee", "bunnywoods9",
-                 "cutiekxy", "cvrsedmind", "EllaBellaRose", "elleXsummit", "elliepics", "Euphoric_Chocolate3",
-                 "femboyNSFW", "goddessxjae", "hardfordemi", "Hdestiny0597", "hellowokitty",
-                 "HoneyPlum", "itsAdaiya", "ittybittybarbii", "joshuabakeronlyfans", "JuicyJaynexoxo", 
-                 "leprechaunjawn", "lizzyf0xx", "Mamikalii", "missbelleq", "mistresshoneyx", "Nixiefan", 
-                 "No_Lobster_3273", "notahuman11",
-                 "pastelcoffins", "perfectgirlfriend", "PlayWitJasmine", "PrestigiousLily",
-                 "Princess-Sugarpill", "ripleyy_", "Rosemary_1", "RosieDay95", "shxuna_", "smokeahontazz", 
-                 "tristannjo", "xo-stassi", "yxxnij104", "zoey__baby99"
-                 ],
 
 # update this or remove if you dont need it. If you remove be sure to get rid of the above comma
-"YOUR OTHER GROUP NAME" : ["USER_IN_GROUP", "ANOTHER_USER_IN_GROUP"
+"GROUP NAME" : ["USER_IN_GROUP", "ANOTHER_USER_IN_GROUP"
                  ]
 }
 
