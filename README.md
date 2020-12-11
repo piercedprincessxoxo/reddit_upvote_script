@@ -28,7 +28,7 @@ if it says 'Python some version' youre good to go. If it shows an error you'll n
 
  Enter the following in the CLI: `pip install praw` and hit enter
  
- 5. Install this script! In your cli enter:
+ 5. Install this script! In github in the top right corner hit the green button to download.
  
 
 #### Update the script with your information
