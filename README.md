@@ -19,15 +19,15 @@ if it says 'Python some version' youre good to go. If it shows an error you'll n
 
 3. Install Python:
 
-Type `Python` in command prompt and hit enter. It should open Python in the Windows store. Just click install!
+ Type `Python` in command prompt and hit enter. It should open Python in the Windows store. Just click install!
 
-or
+ or
 
-Go to https://www.python.org/ > Downloads > Windows > Python (latest version) and run the installer.
+ Go to https://www.python.org/ > Downloads > Windows > Python (latest version) and run the installer.
 
 4. Instal praw (Reddits Python API)
 
-Enter the following in the command prompt" `pip install praw` and hit enter
+ Enter the following in the command prompt" `pip install praw` and hit enter
 
 #### Update the script with your information
 
@@ -48,7 +48,7 @@ Add more friends if you want. Please leave me in the friends list, this way youl
   * copy the public key and paste into the script to replace MY_PUBLIC_KEY
   * copy the secret key and paste into the script to replace MY_SECRET_KEY
 
-#### Run script (once a day or whenever you want to catch up!)
+## Run script (once a day or whenever you want to catch up!)
 Save the script file somewhere on your computer. Get the full file path. To do this you can right click on it in finder click 'properties' then copy the value next to Location. To run it open Command Prompt and type
 `python ./fullfilepath` replace fullfilepath with your filepath!
 ex `python ./C:\users\princess\Documents\upvote_script.py`
