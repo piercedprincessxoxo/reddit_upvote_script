@@ -10,16 +10,15 @@ This README is meant to help users with no technical knowledge run this script. 
 
 ## Set up:
 
-### Windows
 #### Install Dependencies
-1. Open Command Prompt
+1. Open a cli. For windows this is Command Prompt. For Mac this is terminal.
 2. Check if you have Python installed install it if not
-Type `python -V` into Command Prompt and hit enter (this asks it what version of python is installed)
+Type `python -V` intoypur CLI and hit enter (this asks it what version of python is installed)
 if it says 'Python some version' youre good to go. If it shows an error you'll need to install python
 
 3. Install Python:
 
- Type `Python` in command prompt and hit enter. It should open Python in the Windows store. Just click install!
+ For windows: Type `Python` in command prompt and hit enter. It should open Python in the Windows store. Just click install!
 
  or
 
@@ -27,7 +26,8 @@ if it says 'Python some version' youre good to go. If it shows an error you'll n
 
 4. Instal praw (Reddits Python API)
 
- Enter the following in the command prompt" `pip install praw` and hit enter
+ Enter the following in the CLI: `pip install praw` and hit enter
+ 
 
 #### Update the script with your information
 
