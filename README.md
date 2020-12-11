@@ -50,9 +50,9 @@ Add more friends if you want. Please leave me in the friends list, this way youl
 
 ## Run script (once a day or whenever you want to catch up!)
 Save the script file somewhere on your computer. Get the full file path. To do this you can right click on it in finder click 'properties' then copy the value next to Location. To run it open Command Prompt and type
-`python ./fullfilepath` replace fullfilepath with your filepath!
-ex `python ./C:\users\princess\Documents\upvote_script.py`
-This will run the script! It might take a little while. It will print out how many posts it has liked and by who, and let you know when its done!
+`python "fullfilepath"` replace fullfilepath with your filepath!
+ex `python "C:\users\princess\Documents\upvote_script.py"`
+This will run the script! It might take a little while. It will print out how many posts it has liked, in which group, for which user, and let you know when its done!
 If you want to know what posts specifically update the script. Where it says verbose = False, change this to True, and it will print out extra info when it runs!
 
 Thats it! Feel free to reach out to me with any questions. <3
