@@ -1,5 +1,5 @@
 # Reddit Upvote Script
-I created this script to help other SWs with promotion on reddit. But it can be repurposed for anyone wanting an easy way to upvote and support their friends.
+This script provides an easy way to upvote and support your friends on reddit.
 
 When you run this script it goes through and upvotes up to 20 of your friends most recent posts in the last 24 hours.
 The number of posts and number of hours can be updated (see below)
@@ -63,6 +63,7 @@ Thats it! Feel free to reach out to me with any questions. <3
 
 prawcore.exceptions.OAuthException: invalid_grant error processing request
 - check your log in info
+- do you use an authenticator code for log in? If so add that code in the password like this "password:code"
 
 received 401 HTTP response
 - Check your client secret & app ID
